@@ -1,0 +1,19 @@
+body{
+    background: #36EEE0;
+}
+#addTask{
+    background-color: #4C5270;
+}
+.delete{
+    background-color: #E1C340;
+    font-style: oblique;
+    color: #00fadd;
+}
+input{
+    background-color: #BCECE0;
+}
+li{
+    font-weight: bold;
+    font-style: italic;
+    color: #F652A0;
+}
